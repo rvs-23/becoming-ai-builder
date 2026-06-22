@@ -24,18 +24,18 @@ The shared idea: use AI to build, prove we understand it without AI. That's our 
 
 ## How we'll work
 
-We work in **arcs**. An arc is a few weeks on one mission that ends in something we built and can show off. We pick a theme we care about: games, basketball, finance, whatever's fun. Every Sunday should feel like a mission, not a lecture.
+We work in **arcs**. An arc is a few weeks on one mission that ends in something we built and can show off. There are eight, and each one becomes a folder in the repo (`arc-1`, `arc-2`, and so on). We pick a theme we care about: games, basketball, finance, whatever's fun. Every Sunday should feel like a mission, not a lecture.
 
-Here's roughly the next year or two. We go for real understanding, not speed, so the pace can stretch when a topic deserves it.
+Here are the eight arcs, roughly the next year or two. We go for real understanding, not speed, so the pace can stretch when a topic deserves it.
 
-1. **Code sense:** build a small tool of our own, the right way (tests, clean code, our AI rules).
-2. **Data claims:** take real data and prove one true thing with a chart we can defend.
-3. **Databases:** give an app a real memory that remembers and links our data (SQLite).
-4. **Simulation:** run something thousands of times to answer "what are the odds?" (a streak, a game, a market).
-5. **Game studio:** build a real browser game people can actually play, in a second language (TypeScript).
-6. **Machine learning:** train our first model to predict something, and learn when not to trust it.
-7. **Tiny LM lab:** build a tiny text-predictor from scratch. Small, but it's one of the core ideas behind ChatGPT.
-8. **AI app capstone:** ship a real AI app that answers from our own sources, shows its evidence, and says "I don't know" when it should.
+- **Arc 1: Code sense.** Build a small tool of our own, the right way (tests, clean code, our AI rules).
+- **Arc 2: Data claims.** Take real data and prove one true thing with a chart we can defend.
+- **Arc 3: Databases.** Give an app a real memory that remembers and links our data (SQLite).
+- **Arc 4: Simulation.** Run something thousands of times to answer "what are the odds?" (a streak, a game, a market).
+- **Arc 5: Game studio.** Build a real browser game people can actually play, in a second language (TypeScript).
+- **Arc 6: Machine learning.** Train our first model to predict something, and learn when not to trust it.
+- **Arc 7: Tiny LM lab.** Build a tiny text-predictor from scratch. Small, but it's one of the core ideas behind ChatGPT.
+- **Arc 8: AI app capstone.** Ship a real AI app that answers from our own sources, shows its evidence, and says "I don't know" when it should.
 
 By the end we can take an idea, build it with AI, explain and fix it ourselves, tell whether AI's output is actually right, and ship projects worth being proud of.
 
