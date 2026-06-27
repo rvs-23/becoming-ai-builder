@@ -1,10 +1,10 @@
-# How This Works
+# Becoming an AI Builder
 
-Read this once before we start. It's short.
+**TL;DR —** We use AI to build real things, then prove we can read, fix, and judge them *without* it. Eight arcs over the next year or two, each ending in a project worth showing off.
 
 ## Why we're changing things
 
-For three years we learned coding the classic way. The world moved. AI can write code now, so the goal is no longer "type code fast." The goal is to **build real things with AI and still understand, fix, and judge them without it.** That skill is rare and valuable, and it's what we're building toward.
+For the past few years we learned coding the classic way. The world moved. AI can write code now, so the goal is no longer "type code fast." The goal is to **build real things with AI and still understand, fix, and judge them without it.** That skill is rare and valuable, and it's what we're building toward.
 
 The shift in one line:
 
@@ -17,25 +17,27 @@ The old skill still matters. It's just not the whole game anymore.
 
 Some strong programs are moving this way:
 
-- **Harvard's CS50** gives students a custom AI tutor that guides instead of handing over answers, and blocks the auto-answer tools.
-- **AP Computer Science** lets students use AI to build, but they have to explain their own code on a closed exam.
+- **[Harvard's CS50](https://cs50.ai)** gives students a custom AI tutor (the CS50 Duck) that guides instead of handing over answers, and bars the outside auto-answer tools.
+- **[AP Computer Science](https://apstudents.collegeboard.org/courses/ap-computer-science-a)** lets you learn with whatever tools you like, but the exam is closed — you read and write your own code, no AI.
 
 The shared idea: use AI to build, prove we understand it without AI. That's our rule too.
 
 ## How we'll work
 
-We work in **arcs**. An arc is a few weeks on one mission that ends in something we built and can show off. There are eight, and each one becomes a folder in the repo (`arc-1-code-sense`, `arc-2-data-claims`, and so on). We pick a theme we care about: games, basketball, finance, whatever's fun. Every Sunday should feel like a mission, not a lecture.
+We work in **arcs**. An arc is a few weeks on one mission that ends in something we built and can show off. There are eight, and each one becomes a folder in the repo (`arc-1-code-sense`, `arc-2-data-claims`, and so on). We pick a theme we care about: games, basketball, finance, whatever's fun.
 
 Here are the eight arcs, roughly the next year or two. We go for real understanding, not speed, so the pace can stretch when a topic deserves it.
 
-- **Arc 1: Code sense.** Build a small tool of our own, the right way (tests, clean code, our AI rules).
-- **Arc 2: Data claims.** Take real data and prove one true thing with a chart we can defend.
-- **Arc 3: Databases.** Give an app a real memory that remembers and links our data (SQLite).
-- **Arc 4: Simulation.** Run something thousands of times to answer "what are the odds?" (a streak, a game, a market).
-- **Arc 5: Game studio.** Build a real browser game people can actually play, in a second language (TypeScript).
-- **Arc 6: Machine learning.** Train our first model to predict something, and learn when not to trust it.
-- **Arc 7: Tiny LM lab.** Build a tiny text-predictor from scratch. Small, but it's one of the core ideas behind ChatGPT.
-- **Arc 8: AI app capstone.** Ship a real AI app that answers from our own sources, shows its evidence, and says "I don't know" when it should.
+| # | Arc | What we can do after |
+|---|---|---|
+| 1 | Builder Reset & Code Sense | Own a small repo: build a tool, test and debug it, explain it AI-off. |
+| 2 | Data Claims | Make one honest claim from real data, and say what it doesn't prove. |
+| 3 | SQLite App | Give an app a real memory; relational thinking. |
+| 4 | Simulation & Probability | Model uncertainty with Monte Carlo; use probability as a tool. |
+| 5 | Game Studio (second language) | Build a small browser game in TypeScript. |
+| 6 | ML Without Magic | Train a simple model, beat a baseline, learn when to trust it. |
+| 7 | Tiny LM Lab | Train a tiny model from scratch; the math comes with it. |
+| 8 | AI Systems Capstone | A real AI app that answers from our own sources and shows its evidence. |
 
 By the end we can take an idea, build it with AI, explain and fix it ourselves, tell whether AI's output is actually right, and ship projects worth being proud of.
 
@@ -47,6 +49,7 @@ Everything lives in this one GitHub repo, organized by arc. One simple rule: **o
 becoming-ai-builder/
 ├── README.md              this file
 ├── brainstorm.md          ideas, themes, and things we want to build next
+├── tracker.md             our class log and the tools/links we use
 ├── arc-1-code-sense/      we start here
 │   ├── README.md          mission, what we built, notes
 │   └── ...                project files
@@ -54,7 +57,7 @@ becoming-ai-builder/
 └── ...                    arc-2, arc-3, and so on, added as we go
 ```
 
-We only create an arc's folder when we start it, so the repo never looks scary up front. When we finish an arc, its folder is something to show people. By the end there will be eight of them.
+We create an arc's folder only when we start it. When we finish an arc, its folder is something to show people.
 
 ## The AI rule
 
@@ -80,5 +83,7 @@ My job: keep it interesting, tie it to things that matter to us, and never waste
 ## Where we start
 
 First up: we build a small tool, use AI on it once, then break it and fix it ourselves. Small, but that's the whole method in one go.
+
+We keep a running log in [tracker.md](tracker.md) — what we did each class, and the tools and links we use. We add to it after every class.
 
 Let's build.
