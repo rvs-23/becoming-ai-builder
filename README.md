@@ -24,7 +24,7 @@ The shared idea: use AI to build, prove we understand it without AI. That's our 
 
 ## How we'll work
 
-We work in **arcs**. An arc is a few weeks on one mission that ends in something we built and can show off. There are eight, and each one becomes a folder in the repo (`arc-1-code-sense`, `arc-2-data-claims`, and so on). We pick a theme we care about: games, basketball, finance, whatever's fun.
+We work in **arcs**. An arc is a few weeks on one mission that ends in something we built and can show off. There are eight, and each one becomes a folder in the repo (`arc-1-builder-foundations`, `arc-2-data-claims`, and so on). We pick a theme we care about: games, basketball, finance, whatever's fun.
 
 Here are the eight arcs, roughly the next year or two. We go for real understanding, not speed, so the pace can stretch when a topic deserves it.
 
@@ -50,7 +50,7 @@ becoming-ai-builder/
 ├── README.md              this file
 ├── brainstorm.md          ideas, themes, and things we want to build next
 ├── tracker.md             our class log and the tools/links we use
-├── arc-1-code-sense/      we start here
+├── arc-1-builder-foundations/   we start here
 │   ├── README.md          mission, what we built, notes
 │   └── ...                project files
 ├── sandbox/               quick experiments and AI-off challenges
