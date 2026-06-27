@@ -30,8 +30,8 @@ Here are the eight arcs, roughly the next year or two. We go for real understand
 
 | # | Arc | What we can do after |
 |---|---|---|
-| 1 | Builder Reset & Code Sense | Own a small repo: build a tool, test and debug it, explain it AI-off. |
-| 2 | Data Claims | Make one honest claim from real data, and say what it doesn't prove. |
+| 1 | Builder Foundations | Own a real repo end-to-end: build a tested tool on real data, set up CI, handle git like a pro, and explain and fix it all without AI. |
+| 2 | Data Claims | Make one honest claim from messy real data — with stats and a chart — and say what it doesn't prove. |
 | 3 | SQLite App | Give an app a real memory; relational thinking. |
 | 4 | Simulation & Probability | Model uncertainty with Monte Carlo; use probability as a tool. |
 | 5 | Game Studio (second language) | Build a small browser game in TypeScript. |
