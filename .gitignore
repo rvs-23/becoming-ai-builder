@@ -13,3 +13,6 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# Teacher reference build (local only, never pushed)
+_reference/
