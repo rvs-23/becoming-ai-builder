@@ -67,6 +67,8 @@ We can use AI. We're not going to pretend it doesn't exist. We use it in three m
 - **AI hints:** when we're stuck, AI can nudge us, after we say what we think is wrong.
 - **AI allowed:** for building real projects. We note what AI wrote, and we have to be able to explain it and change it on the spot.
 
+Which AI: a small, fast model. Use **Gemini Flash** (in the Gemini web app), or **Claude Haiku** if you prefer. No API key, no setup.
+
 One line to remember: **if we can't explain it, it isn't ours yet.**
 
 ## The deal, both ways
