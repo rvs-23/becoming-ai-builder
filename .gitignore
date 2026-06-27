@@ -16,3 +16,6 @@ venv/
 
 # Teacher reference build (local only, never pushed)
 _reference/
+
+# Claude Code local settings
+.claude/settings.local.json
