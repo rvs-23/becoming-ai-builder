@@ -6,7 +6,7 @@ A running log of what we do each class, and the tools and links we lean on. We a
 
 | Date | Arc | Class | What we built |
 |------|-----|-------|---------------|
-| 28th June 2026 | 1 | 1 | Orientation: workflow, repo, and project goal locked. [Summary](classes/class-1-2026-06-28.md) |
+| 28th June 2026 | 1 | 1 | Orientation: workflow, repo, and project goal locked. [Summary](class-summaries/class-1-2026-06-28.md) |
 
 ## Resources
 

@@ -50,6 +50,7 @@ becoming-ai-builder/
 ├── README.md              this file
 ├── brainstorm.md          ideas, themes, and things we want to build next
 ├── tracker.md             our class log and the tools/links we use
+├── class-summaries/       one short summary per class, pushed after each
 ├── arc-1/                 we start here
 │   ├── README.md          mission, what we built, notes
 │   └── ...                project files
