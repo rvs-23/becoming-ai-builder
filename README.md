@@ -52,8 +52,8 @@ becoming-ai-builder/
 ├── tracker.md             our class log and the tools/links we use
 ├── class-summaries/       one short summary per class, pushed after each
 ├── arc-1/                 we start here
-│   ├── README.md          mission, what we built, notes
-│   └── ...                project files
+│   ├── data/              the season data we read
+│   └── ...                project files + a README, added as we build
 ├── sandbox/               quick experiments and AI-off challenges
 └── ...                    arc-2, arc-3, and so on, added as we go
 ```
