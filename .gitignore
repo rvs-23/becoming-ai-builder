@@ -14,8 +14,8 @@ venv/
 .vscode/
 .idea/
 
-# Teacher reference build (local only, never pushed)
+# My reference build 
 _reference/
 
-# Claude Code local settings
-.claude/settings.local.json
+# Claude Code 
+.claude/
